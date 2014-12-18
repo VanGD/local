@@ -1,0 +1,16 @@
+Instructions for running: Time_Series_Stocks.py:
+
+1) The program was written for and compiled with Python 2.7.9;
+      please use this when testing or running the application.
+
+2) The program will ask for a user input for the number of days they wish to
+      increment the time series. Note, the input tests and expects a positive
+      value for the program to run. Any fractional value will be rounded down
+      to an integer
+
+3) Note, I used the properties of the math function "sin" rather than the
+      function itself to decrease the computational complexity of the program.
+      The properties used are listed in the comments above the main function.
+
+4) The program will run and produce daily output and financial results of the
+      time-series.
